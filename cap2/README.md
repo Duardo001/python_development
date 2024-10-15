@@ -7,4 +7,5 @@ Nele iremos simular uma simples tela de cadastro para doar sangue, e com isso te
 - Utilização do f-string
 - Validação em bool
 - Exibição de dados
+
 ![alt text](image.png)
