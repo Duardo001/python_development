@@ -8,6 +8,8 @@ Abordando temas como:
 - Função **kwargs
 - Função com return  
 
-Como projeto desenvolvemos um script formado ao todo com 4 funções, tendo uma responsável por realizar a chamada das outras 3, e esse script exibe uma tela de menu com 3 opções: calcular velocidade média, converter temperatura e sair. Além disso, também vimos que é possível realizar a chamada de funções por outros arquivos. 
+Além disso, vimos como comentar o código e a importância de deixá-lo documentado
+
+Como projeto desenvolvemos um script formado ao todo com 4 funções, tendo uma responsável por realizar a chamada das outras 3, e esse script exibe uma tela de menu com 3 opções: calcular velocidade média, converter temperatura e sair.Também vimos que é possível realizar a chamada de funções por outros arquivos. 
 
 ![alt text](image.png)
